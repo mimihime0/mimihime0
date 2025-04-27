@@ -69,7 +69,7 @@ Leadership, Fast Learner, Critical Thinking, Problem Solving, Adaptability, Team
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&langs_count=10" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mimihime0&layout=compact&theme=radical&langs_count=10" alt="Top Langs">
 </p>
 
 ---
