@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Fay Almajed 
+# Hello! I'm Fay Almajed 🩷 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mimihime0&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
