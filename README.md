@@ -2,13 +2,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mimihime0&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> </p>
 
-A Computer Science student at King Saud University with a passion for Machine Learning, AI, and Algorithm Design. I enjoy building intelligent systems and tackling complex problems using optimization and AI techniques. I'm a fast learner who thrives in collaborative, team-based environments.
+A Computer Science graduate from King Saud University with a passion for Machine Learning, AI, and Algorithm Design. I enjoy building intelligent systems and tackling complex problems using optimization and AI techniques. I'm a fast learner who thrives in collaborative, team-based environments.
 
 ---
 
 ### 🚀 About Me
 
-* 🎓 Studying Computer Science at King Saud University (Expected Graduation: June 2025) 
+* 🎓 Graduated from King Saud University majoring in Computer Science (2025)
 * 💡 Interested in: Machine Learning, Artificial Intelligence, Optimization Algorithms, Problem Solving.
 * 🌱 Currently learning more about advanced ML techniques and deployment.
 * 👯 I’m looking to collaborate on innovative AI or optimization projects.
@@ -22,11 +22,6 @@ A Computer Science student at King Saud University with a passion for Machine Le
 **Programming Languages:**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 **Libraries & Frameworks:**
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
